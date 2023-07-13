@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# Connect to web-01 server using the private key stored in ~/.ssh/cally with the user 'ubuntu'
-ssh -i ~/.ssh/cally ubuntu@52.91.152.60
