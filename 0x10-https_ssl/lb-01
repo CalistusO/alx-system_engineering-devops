@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Connect to lb-01 server using the private key stored in ~/.ssh/cally with the user 'ubuntu'
+ssh -i ~/.ssh/cally ubuntu@100.27.12.104
